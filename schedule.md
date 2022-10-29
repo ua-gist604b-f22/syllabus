@@ -44,8 +44,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  ![zoom icon](media/play-icon.png) _[Lecture Python GIS - Rasterio](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c51c1882-d829-4ee5-b254-af3b0159fda5)_ |  |  |  |
 |  [3-4 Python Rasterio](https://classroom.github.com/a/QFAMZxMP) | 10/25 | 11/8 | 40 |
 |  **![docker](./media/docker-32.png) Module 4: Docker** |  |  |  |
-|  _Lecture (Docker)_ |  |  |  |
-|  4-0 Docker | 11/8 | 11/15 | 60 |
+|  _[Lecture (Docker)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f1c357d-f107-40c6-ae36-af3d017515af)_ |  |  |  |
+|  [4-0 Docker](https://classroom.github.com/a/BhQTKrxs) | 11/8 | 11/15 | 60 |
 |  **![postgis](./media/postgis-32.png) Module 6: PostGIS** |  |  |  |
 |  _Lecture (PostGIS Docker Setup)_ |  |  |  |
 |  6-0 PostGIS Docker Setup | 11/8 | 11/15 | 40 |
