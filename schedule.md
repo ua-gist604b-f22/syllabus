@@ -41,7 +41,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  ![zoom icon](media/play-icon.png) _[Lecture (Python GIS - Pandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54148fb7-b980-4d4b-bb8f-af3a0050e06e)_ |  |  |  |
 |  [3-2 Python GeoPandas Intro](https://classroom.github.com/a/qApIF2QN) | 10/25 | 11/1 | 40 |
 |  [3-3 Python GeoPandas Join](https://classroom.github.com/a/wa8b-myn) |10/25 | 11/1 | 40 |
-|  ![zoom icon](media/play-icon.png) _[Lecture Python GIS - Rasterio](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c51c1882-d829-4ee5-b254-af3b0159fda5)_ |  |  |  |
+|  ![zoom icon](media/play-icon.png) _[Lecture Python GIS - Rasterio - Part 1](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8af8edfb-6d66-49c3-b6eb-af3d01835ec1)_ |  |  |  |
+|  ![zoom icon](media/play-icon.png) _[Lecture Python GIS - Rasterio - Part 2](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c51c1882-d829-4ee5-b254-af3b0159fda5)_ |  |  |  |
 |  [3-4 Python Rasterio](https://classroom.github.com/a/QFAMZxMP) | 10/25 | 11/8 | 40 |
 |  **![docker](./media/docker-32.png) Module 4: Docker** |  |  |  |
 |  _Lecture (Docker)_ |  |  |  |
