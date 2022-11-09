@@ -48,17 +48,15 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _[Lecture (Docker)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f1c357d-f107-40c6-ae36-af3d017515af)_ |  |  |  |
 |  [4-0 Docker](https://classroom.github.com/a/BhQTKrxs) | 11/8 | 11/15 | 60 |
 |  **![postgis](./media/postgis-32.png) Module 6: PostGIS** |  |  |  |
-|  _Lecture (PostGIS Docker Setup)_ |  |  |  |
-|  6-0 PostGIS Docker Setup | 11/8 | 11/15 | 40 |
-|  6-1 PostGIS Intro | 11/8 |11/15 | 40 |
+|  ![zoom icon](media/play-icon.png)_[Lecture (PostGIS Intro)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8525cb4a-1507-454a-ae47-af460031b9ae)_ |  |  |  |
+|  [6-0 PostGIS Intro](https://classroom.github.com/a/vMu_AvHB) | 11/8 |11/15 | 40 |
 |  _Lecture (PostGIS Intro)_ |  |  |  |
 |  6-2 PostGIS OSM Load | 11/8 | 11/15 | 40 |
 |  **![geoserver](./media/geoserver-32.png) Module 7: Geoserver** |  |  |  |
 |  _Lecture (Geoserver, Docker, Docker Compose)_ |  |  |  |
-|  7-0 Geoserver Docker Setup | 11/15 | 11/22 | 30 |
-|  7-1 Geoserver Intro | 11/15| 11/22 | 30 |
-|  7-2 Geoserver Docker Compose Setup | 11/15 | 11/22 | 30 |
-|  7-3 PostGIS and Geoserver | 11/15 | 11/22 | 40 |
+|  7-0 Geoserver Intro | 11/15| 11/22 | 30 |
+|  7-1 Geoserver Docker Compose Setup | 11/15 | 11/22 | 30 |
+|  7-2 PostGIS and Geoserver | 11/15 | 11/22 | 40 |
 |  **![osm](./media/osm-32.png) Module 8: PostGIS and OSM with nice styling** |  |  |  |
 |  _Lecture (PostGIS and OSM with style)_ |  |  |  |
 |  8-0 PostGIS and OSM with style | 11/22 | 11/29 | 40 |
@@ -66,7 +64,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  8-1 Geoserver and OSM with style | 11/22 |11/29| 40 |
 |  **![leaflet](./media/leaflet-32.png) Module 9: WebGIS** |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  8-0 WebGIS - Leaflet | 11/29 | 12/5 | 40 |
+|  9-0 WebGIS - Leaflet | 11/29 | 12/5 | 40 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
