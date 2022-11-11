@@ -54,18 +54,18 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [6-1 PostGIS OSM Load](https://classroom.github.com/a/gdw4VWZA) | 11/8 | 11/15 | 40 |
 |  **![geoserver](./media/geoserver-32.png) Module 7: Geoserver** |  |  |  |
 |  _Lecture (Geoserver, Docker, Docker Compose)_ |  |  |  |
-|  7-0 Geoserver Intro | 11/15| 11/22 | 30 |
-|  7-1 Geoserver Docker Compose Setup | 11/15 | 11/22 | 30 |
-|  7-2 PostGIS and Geoserver | 11/15 | 11/22 | 40 |
-|  **![osm](./media/osm-32.png) Module 8: PostGIS and OSM with nice styling** |  |  |  |
-|  _Lecture (PostGIS and OSM with style)_ |  |  |  |
-|  8-0 PostGIS and OSM with style | 11/22 | 11/29 | 40 |
-|  Lecture (Geoserver and OSM with style)_ |  |  |  |
-|  8-1 Geoserver and OSM with style | 11/22 |11/29| 40 |
-|  **![leaflet](./media/leaflet-32.png) Module 9: WebGIS** |  |  |  |
+|  [7-0 Geoserver Intro](https://classroom.github.com/a/ep_RDP2y) | 11/15| 11/22 | 40 |
+|  [7-1 Geoserver OSM I](https://classroom.github.com/a/90N1YZp3) | 11/15 | 11/22 | 40 |
+|  [7-2 Geoserver OSM II]() | 11/15 | 11/22 | 40 |
+|  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  9-0 WebGIS - Leaflet | 11/29 | 12/5 | 40 |
-
+|  8-0 WebGIS - Leaflet I | 11/22 | 11/29 | 40 |
+|  8-1 WebGIS - Leaflet II | 11/22 | 11/29 | 40 |
+|  8-2 WebGIS - OpenLayers| 11/22 | 11/29 | 40 |
+|  **![gdal](./media/gdal-32.png) Module 9: gdal** |  |  |  |
+|  _Lecture (gdal)_ |  |  |  |
+|  9-0 gdal | 11/29 | 12/5 | 40 |
+|  
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
 
