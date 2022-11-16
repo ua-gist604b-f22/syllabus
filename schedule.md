@@ -55,7 +55,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![geoserver](./media/geoserver-32.png) Module 7: Geoserver** |  |  |  |
 |  _![zoom icon](media/play-icon.png)[Lecture (Geoserver)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ca570a6-cfeb-4c44-af84-af4d01321c4c)_ |  |  |  |
 |  [7-0 Geoserver Intro](https://classroom.github.com/a/ep_RDP2y) | 11/15| 11/22 | 40 |
-|  _![zoom icon](media/play-icon.png)[Lecture (Geoserver w OSM)]()_ |  |  |  |
+|  _![zoom icon](media/play-icon.png)[Lecture (Geoserver w OSM)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=757f9515-c94a-4ac5-8208-af4d013fbe61)_ |  |  |  |
 |  [7-1 Geoserver OSM I](https://classroom.github.com/a/90N1YZp3) | 11/15 | 11/22 | 40 |
 |  7-2 Geoserver OSM II | 11/15 | 11/22 | 40 |
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
