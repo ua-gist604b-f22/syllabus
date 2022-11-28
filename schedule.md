@@ -57,15 +57,13 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [7-0 Geoserver Intro](https://classroom.github.com/a/ep_RDP2y) | 11/15| 11/22 | 40 |
 |  _![zoom icon](media/play-icon.png)[Lecture (Geoserver w OSM)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=757f9515-c94a-4ac5-8208-af4d013fbe61)_ |  |  |  |
 |  [7-1 Geoserver OSM I](https://classroom.github.com/a/90N1YZp3) | 11/15 | 11/22 | 40 |
-|  7-2 Geoserver OSM II | 11/15 | 11/22 | 40 |
+|  _![zoom icon](media/play-icon.png)[Lecture (Geoserver w OSM II)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d2022b6-c11e-4b95-96ce-af5b0054f6b2)_ |  |  |  ||  [7-2 Geoserver OSM II](https://classroom.github.com/a/J04Ehy2E) | 11/27 | 12/3 | 40 |
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  8-0 WebGIS - Leaflet I | 11/22 | 11/29 | 40 |
-|  8-1 WebGIS - Leaflet II | 11/22 | 11/29 | 40 |
-|  8-2 WebGIS - OpenLayers| 11/22 | 11/29 | 40 |
+|  8-0 WebGIS - Leaflet I | 11/29 | 12/5 | 40 |
 |  **![gdal](./media/gdal-32.png) Module 9: gdal** |  |  |  |
 |  _Lecture (gdal)_ |  |  |  |
-|  9-0 gdal | 11/29 | 12/5 | 40 |
+|  9-0 gdal | 12/1 | 12/7 | 40 |
 |  
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
