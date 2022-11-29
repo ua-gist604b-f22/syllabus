@@ -60,7 +60,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _![zoom icon](media/play-icon.png)[Lecture (Geoserver w OSM II)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d2022b6-c11e-4b95-96ce-af5b0054f6b2)_ |  |  |  ||  [7-2 Geoserver OSM II](https://classroom.github.com/a/J04Ehy2E) | 11/27 | 12/3 | 40 |
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  8-0 WebGIS - Leaflet I | 11/29 | 12/5 | 40 |
+|  [8-0 WebGIS - Leaflet I](https://classroom.github.com/a/cJeYSCRx) | 11/29 | 12/5 | 40 |
 |  **![gdal](./media/gdal-32.png) Module 9: gdal** |  |  |  |
 |  _Lecture (gdal)_ |  |  |  |
 |  9-0 gdal | 12/1 | 12/7 | 40 |
