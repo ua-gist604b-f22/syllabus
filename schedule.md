@@ -62,7 +62,11 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
 |  8-0 - SKIP |  | |  |
+|  _![zoom icon](media/play-icon.png)[Lecture (Leaflet)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f22c8aab-6798-419a-b3d7-af630045fd09)_ |  |  |  |
 |  [8-1 WebGIS - Leaflet I](https://classroom.github.com/a/ZW4bD_sB) | ONLY FOR FUN | | 0 |
+| --- | --- |
+
+https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f22c8aab-6798-419a-b3d7-af630045fd09
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
