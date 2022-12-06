@@ -61,11 +61,9 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [7-2 Geoserver OSM II](https://classroom.github.com/assignment-invitations/09ddaad8ecf1f6be22ca6600232a3bf3) | 11/15 | 11/22 | 40 |
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  [8-0 WebGIS - Leaflet I](https://classroom.github.com/a/cJeYSCRx) | 11/29 | 12/5 | 40 |
-|  **![gdal](./media/gdal-32.png) Module 9: gdal** |  |  |  |
-|  _Lecture (gdal)_ |  |  |  |
-|  9-0 gdal | 12/1 | 12/7 | 40 |
-|  
+|  8-0 - SKIP |  | |  |
+|  [8-1 WebGIS - Leaflet I](https://classroom.github.com/a/ZW4bD_sB) | ONLY FOR FUN | | 0 |
+
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
 
